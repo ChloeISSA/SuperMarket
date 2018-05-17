@@ -10,4 +10,6 @@ For example:<br />
 • $1.99/pound (so what does 4 ounces cost?) <br />
 • buy two, get one free (so does the third item have a price?) <br />
  
-The exercise is to experiment with a model that is flexible enough to deal with these (and other) pricing schemes.
+The exercise is to experiment with a model that is flexible enough to deal with these (and other) pricing schemes. <br />
+
+--> This Kata is implemented with Java 8 and JUnit 5
